@@ -1,4 +1,4 @@
-# Northwind Company Data Analysis Capstone Project
+# Northwind Data Analysis Capstone Project
 
 Bu proje, Northwind şirketine ait verilerin PostgreSQL kullanılarak analiz edilmesi ve elde edilen sonuçların Python ve PowerBI ile görselleştirilmesini içermektedir.
 
